@@ -1,0 +1,9 @@
+file_format: "1"
+id: reviung_r
+name: REVIUNG_R
+type: shield
+url: https://github.com/gtips/reviung/tree/master/reviung39
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
